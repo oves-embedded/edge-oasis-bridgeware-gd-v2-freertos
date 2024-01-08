@@ -1,0 +1,13 @@
+#过滤编译文件
+*.o
+*.crf
+*.d
+*.lnp
+*.hex
+*.bin
+*.axf
+*.htm
+*.map
+*.dep
+*.rar
+
